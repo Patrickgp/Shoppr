@@ -3,7 +3,8 @@
 ##  
 
 # Video Walkthrough Link
-https://drive.google.com/file/d/1jOII8XbeFNxcO_mk8lSa9SaZRPTzzA3L/view
+PART 1: https://drive.google.com/file/d/1jOII8XbeFNxcO_mk8lSa9SaZRPTzzA3L/view
+PART 2: https://drive.google.com/file/d/1Jg1uYlBfciHEvxSblm4ajGW5xtx7LMLw/view
 
 # Description
 This application utilizes MySQL and Sequelize to manage an ecommerce business inventory. It provides the user the ability to create, read, update and delete products, categories, and product tags.
